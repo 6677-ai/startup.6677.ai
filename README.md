@@ -20,4 +20,5 @@ We are proud to present two of our innovative products that you might find inter
 - **Artiversehub.ai**: A product that not only providing free ai image prompt but also ai art generator including MidJourney, DALLE, Leonardo, Stable Diffusion. Visit us at [https://artiversehub.ai](https://artiversehub.ai)
 - **Anime Girl Studio**: Your one-stop for anime-inspired girl image and ai anime girl generator. Check us out at [https://animegirl.studio](https://animegirl.studio)
 
-Feel free to follow our journey, contribute to our projects, and be a part of our growing community. We look forward to connecting with you!
+## Thanks
+Thanks for the startup open source from [https://startup.nextjstemplates.com](https://startup.nextjstemplates.com)!
