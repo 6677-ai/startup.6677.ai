@@ -18,7 +18,16 @@ We encourage you to explore our open-source project and see how it can be adapte
 ## Stay Connected with Our Products
 We are proud to present two of our innovative products that you might find interesting:
 - **Artiversehub.ai**: A product that not only providing free ai image prompt but also ai art generator including MidJourney, DALLE, Leonardo, Stable Diffusion. Visit us at [https://artiversehub.ai](https://artiversehub.ai)
-- **Anime Girl Studio**: Your one-stop for anime-inspired girl image and ai anime girl generator. Check us out at [https://animegirl.studio](https://animegirl.studio)
+  
+## For more AI tootls see Tap4 AI
+
+Tap4 AI is the powerful AI Directory for the collection of AI tools all over the world. Visit [Tap4 AI](https://tap4.ai) to see more.
+
+## The Tattoo AI Generator and Design
+Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit [Tattoo AI Design](https://tattooai.design)
+
+## Anime Girl Studio -- AI Anime Girl Generator and Chat
+Anime Girl Studio is the ai anime girl generator and chat product. You can generate what you like and chat with the AI anime girl, please visit [Anime Girl Studio](https://animegirl.studio)
 
 ## Thanks
 Thanks for the startup open source from [https://startup.nextjstemplates.com](https://startup.nextjstemplates.com)!
