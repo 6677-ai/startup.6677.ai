@@ -12,13 +12,18 @@ Welcome to the open-source project from 6677.ai, where we are committed to shari
 - **Scalability**: As your startup grows, Next.js can easily scale with you, handling more traffic and complexity.
 - **Developer Experience**: Next.js provides a seamless development experience with features like Hot Module Replacement and API Middleware.
 
-## Get Inspired by Our Work
-We encourage you to explore our open-source project and see how it can be adapted for your own startup's needs. You can find the code and contribute to our project on our GitHub repository.
+## Link Me
+You can contact me at Twitter: https://x.com/tap4ai
+
+if this project is helpful to you, buy me a coffee.
+
+<a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 ## Stay Connected with Our Products
 We are proud to present two of our innovative products that you might find interesting:
 - **Artiversehub.ai**: A product that not only providing free ai image prompt but also ai art generator including MidJourney, DALLE, Leonardo, Stable Diffusion. Visit us at [https://artiversehub.ai](https://artiversehub.ai)
-  
+
 ## For more AI tootls see Tap4 AI
 
 Tap4 AI is the powerful AI Directory for the collection of AI tools all over the world. Visit [Tap4 AI](https://tap4.ai) to see more.
